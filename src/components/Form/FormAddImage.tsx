@@ -143,12 +143,13 @@ export function FormAddImage({ closeModal }: FormAddImageProps): JSX.Element {
       </Stack>
 
       <Button
-        my={6}
         isLoading={formState.isSubmitting}
         isDisabled={formState.isSubmitting}
         type="submit"
-        w="100%"
+        my={6}
         py={6}
+        w="100%"
+        bg="#42A8D3"
       >
         Enviar
       </Button>

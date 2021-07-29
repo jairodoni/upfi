@@ -77,6 +77,7 @@ export default function Home(): JSX.Element {
             onClick={() => fetchNextPage()}
             disabled={isFetchingNextPage}
             mt="6"
+            bg="#42A8D3"
           >
             {/* isFetchingNextPage = Se ele ja esta buscando uma pagina nova é true, se não, é false */}
             {/* 'Carregando...' e 'Carregar mais'  são obrigatorios para o funcionamento */}

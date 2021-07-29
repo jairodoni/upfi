@@ -170,7 +170,7 @@ const FileInputBase: ForwardRefRenderFunction<
                 <CircularProgress
                   trackColor="pGray.200"
                   value={progress}
-                  color="orange.500"
+                  color="blue.300"
                 >
                   <CircularProgressLabel>{progress}%</CircularProgressLabel>
                 </CircularProgress>

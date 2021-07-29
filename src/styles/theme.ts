@@ -11,8 +11,8 @@ export const theme = extendTheme({
       '500': '#85817A',
       '600': '#6A6762',
       '700': '#504E49',
-      '800': '#353431',
-      '900': '#1B1A18',
+      '800': '#2C3237',
+      '900': '#0B0F12',
     },
   },
   fonts: {
@@ -28,7 +28,7 @@ export const theme = extendTheme({
     },
     Button: {
       defaultProps: {
-        colorScheme: 'orange',
+        colorScheme: 'blue',
       },
     },
   },

@@ -15,7 +15,7 @@ export function Loading(): JSX.Element {
           size="xs"
           isIndeterminate
           bgColor="transparent"
-          colorScheme="orange"
+          color="#42A8D3"
         />
       </Box>
     </Flex>
