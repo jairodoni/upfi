@@ -61,7 +61,7 @@
 
 ## **💻 Projeto**
 
-Upfi é um prototipo de um site de uploads de imagems onde artistas podem divulgar suas obras.
+Upfi é uma plataforma de upload de imagens, onde as pessoas podem divulgar imagens como wallpapers de smartphone ou desktop, podendo subir as imagens diretamente no site. 
 
 ---
 
